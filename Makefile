@@ -14,7 +14,7 @@ OBJ_FILES = $(patsubst $(SRC_DIR)/%.cpp,$(OBJ_DIR)/%.o,$(SRC_FILES))
 all: main
 
 main: $(OBJ_FILES)
-	$(CC) $(CFLAGS) -o $@ $^ -lncurses -lreadline
+	$(CC) $(CFLAGS) -o $@ $^ -lreadline
 
 $(OBJ_DIR)/%.o: $(SRC_DIR)/%.cpp
 	@mkdir -p $(OBJ_DIR)

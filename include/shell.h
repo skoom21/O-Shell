@@ -9,9 +9,6 @@
 #include <cstdlib>
 #include <cstring>
 #include <array>
-#include <glob.h>
-#include <termios.h>
-#include <ncurses.h>
 #include <iostream>
 #include <readline/readline.h>
 #include <readline/history.h>
