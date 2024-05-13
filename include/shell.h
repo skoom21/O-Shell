@@ -29,6 +29,7 @@ public:
     Command parseCommand(const std::string &command);
     std::string readCommand();
     void run();
+    void displayTitle();
 };
 
 #endif

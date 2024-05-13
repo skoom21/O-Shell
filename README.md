@@ -82,4 +82,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Special thanks to Robot Ahmed Shah for inspiration and guidance.
+- Special thanks to our mothers for inspiration and guidance.
+(HAPPY MOTHERS DAY)
