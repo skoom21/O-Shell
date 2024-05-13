@@ -1,6 +1,6 @@
 # O-Shell
 
-<img src="./img/logo.png" align="right" width="256" height="256" style="margin: 0 10px">
+<img src="./img/logo.jpeg" align="right" width="256" height="256" style="margin: 0 10px">
 
 Welcome to O-Shell, your interactive command-line shell project! O-Shell aims to provide a user-friendly interface for interacting with your operating system through the command line.
 
