@@ -58,19 +58,24 @@ O-Shell supports the following built-in commands:
 To use O-Shell, follow these simple steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/o-shell.git
+``
+git clone https://github.com/skoom21/o-shell.git
+``
 
-
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+``
 cd o-shell
+``
 
 
-
-3. Build the shell using the provided Makefile:
+4. Build the shell using the provided Makefile:
+``
 make
-
-4. Run the shell executable:
+``
+5. Run the shell executable:
+``
 ./main
+``
 
 ## Contributing
 
